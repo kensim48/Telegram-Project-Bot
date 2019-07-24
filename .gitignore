@@ -1,0 +1,4 @@
+pycharmvenv/
+venv/
+logs/
+.idea/
